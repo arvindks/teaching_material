@@ -1,0 +1,109 @@
+
+Network name: 
+./as-735.mat
+Number of nodes 7716 and edges  13895.
+Maximum degree 1459 at index 272.
+Number of PCG iterations 13. 
+Maximum of Katz 142.151724 at index 272.
+Number of Lanczos iterations 11. 
+Maximum of Total 279750503600.095154 at index 272.
+
+
+Network name: 
+./as-Skitter.mat
+Number of nodes 1.69642e+06 and edges  1.10953e+07.
+Maximum degree 35455 at index 7047.
+Number of PCG iterations 13. 
+Maximum of Katz 255.233261 at index 7580.
+Number of Lanczos iterations 12. 
+Maximum of Total 1025094753305256689436109696371913384583015559397621108614801002183835364431642404868032732375761720389833654981684926438570594417846152902259769344.000000 at index 7580.
+
+
+Network name: 
+./ca-AstroPh.mat
+Number of nodes 18772 and edges  198110.
+Maximum degree 504 at index 7299.
+Number of PCG iterations 15. 
+Maximum of Katz 48.018933 at index 7299.
+Number of Lanczos iterations 13. 
+Maximum of Total 2014187903759458238464.000000 at index 7299.
+
+
+Network name: 
+./ca-CondMat.mat
+Number of nodes 23133 and edges  93497.
+Maximum degree 280 at index 15756.
+Number of PCG iterations 16. 
+Maximum of Katz 47.009649 at index 5013.
+Number of Lanczos iterations 14. 
+Maximum of Total 1345660636.071245 at index 5013.
+
+
+Network name: 
+./ca-GrQc.mat
+Number of nodes 5242 and edges  14496.
+Maximum degree 81 at index 4234.
+Number of PCG iterations 13. 
+Maximum of Katz 11.191558 at index 4234.
+Number of Lanczos iterations 12. 
+Maximum of Total 10562105888.912392 at index 4234.
+
+
+Network name: 
+./ca-HepPh.mat
+Number of nodes 12008 and edges  118521.
+Maximum degree 491 at index 9647.
+Number of PCG iterations 9. 
+Maximum of Katz 13.888143 at index 1157.
+Number of Lanczos iterations 8. 
+Maximum of Total 217181971146828930458011982058717873110984276288995328.000000 at index 4517.
+
+
+Network name: 
+./ca-HepTh.mat
+Number of nodes 9877 and edges  25998.
+Maximum degree 65 at index 223.
+Number of PCG iterations 13. 
+Maximum of Katz 8.650117 at index 5484.
+Number of Lanczos iterations 12. 
+Maximum of Total 5813049.490309 at index 5484.
+
+
+Network name: 
+./email-Enron.mat
+Number of nodes 36692 and edges  183831.
+Maximum degree 1383 at index 5039.
+Number of PCG iterations 13. 
+Maximum of Katz 66.358901 at index 137.
+Number of Lanczos iterations 11. 
+Maximum of Total 411151801840629319167115264.000000 at index 137.
+
+
+Network name: 
+./roadNet-CA.mat
+Number of nodes 1.97128e+06 and edges  2.76661e+06.
+Maximum degree 12 at index 562819.
+Number of PCG iterations 15. 
+Maximum of Katz 7.934126 at index 562819.
+Number of Lanczos iterations 100. 
+Maximum of Total 401.910538 at index 562819.
+
+
+Network name: 
+./roadNet-PA.mat
+Number of nodes 1.09092e+06 and edges  1.5419e+06.
+Maximum degree 9 at index 674503.
+Number of PCG iterations 15. 
+Maximum of Katz 7.039214 at index 847933.
+Number of Lanczos iterations 100. 
+Maximum of Total 56.933686 at index 847933.
+
+
+Network name: 
+./roadNet-TX.mat
+Number of nodes 1.39338e+06 and edges  1.92166e+06.
+Maximum degree 12 at index 126100.
+Number of PCG iterations 15. 
+Maximum of Katz 8.362242 at index 468367.
+Number of Lanczos iterations 100. 
+Maximum of Total 57.008889 at index 468367.
